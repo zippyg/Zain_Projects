@@ -1,8 +1,0 @@
-C:/Users/13410/Desktop/study/Summer Project Year 1/STEVAL_SPIN3201_example/Src/stm32f0xx_mc_it.c:75:6:DMA1_Channel1_IRQHandler	8	static
-C:/Users/13410/Desktop/study/Summer Project Year 1/STEVAL_SPIN3201_example/Src/stm32f0xx_mc_it.c:99:6:TIM1_BRK_UP_TRG_COM_IRQHandler	16	static
-C:/Users/13410/Desktop/study/Summer Project Year 1/STEVAL_SPIN3201_example/Src/stm32f0xx_mc_it.c:136:6:DMA1_Channel4_5_IRQHandler	0	static
-C:/Users/13410/Desktop/study/Summer Project Year 1/STEVAL_SPIN3201_example/Src/stm32f0xx_mc_it.c:154:6:DMA1_Channel2_3_IRQHandler	8	static
-C:/Users/13410/Desktop/study/Summer Project Year 1/STEVAL_SPIN3201_example/Src/stm32f0xx_mc_it.c:163:6:USART1_IRQHandler	8	static,ignoring_inline_asm
-C:/Users/13410/Desktop/study/Summer Project Year 1/STEVAL_SPIN3201_example/Src/stm32f0xx_mc_it.c:205:6:HardFault_Handler	8	static
-C:/Users/13410/Desktop/study/Summer Project Year 1/STEVAL_SPIN3201_example/Src/stm32f0xx_mc_it.c:223:6:SysTick_Handler	8	static
-C:/Users/13410/Desktop/study/Summer Project Year 1/STEVAL_SPIN3201_example/Src/stm32f0xx_mc_it.c:267:6:EXTI0_1_IRQHandler	8	static

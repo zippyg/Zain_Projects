@@ -1,6 +1,0 @@
-C:/Users/13410/Desktop/study/Summer Project Year 1/Self_balancing/Src/usart_aspep_driver.c:30:6:UASPEP_INIT	20	static,ignoring_inline_asm
-C:/Users/13410/Desktop/study/Summer Project Year 1/Self_balancing/Src/usart_aspep_driver.c:37:6:UASPEP_DAMCONFIG_TX	12	static,ignoring_inline_asm
-C:/Users/13410/Desktop/study/Summer Project Year 1/Self_balancing/Src/usart_aspep_driver.c:68:6:UASPEP_DAMCONFIG_RX	12	static,ignoring_inline_asm
-C:/Users/13410/Desktop/study/Summer Project Year 1/Self_balancing/Src/usart_aspep_driver.c:96:6:UASPEP_SEND_PACKET	12	static
-C:/Users/13410/Desktop/study/Summer Project Year 1/Self_balancing/Src/usart_aspep_driver.c:115:6:UASPEP_RECEIVE_BUFFER	8	static
-C:/Users/13410/Desktop/study/Summer Project Year 1/Self_balancing/Src/usart_aspep_driver.c:125:6:UASPEP_IDLE_ENABLE	0	static,ignoring_inline_asm

@@ -1,0 +1,8 @@
+C:/Users/13410/Desktop/study/Summer Project Year 1/STEVAL_SPIN3201_example/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_rcc.c:110:13:LL_RCC_DeInit	8	static
+C:/Users/13410/Desktop/study/Summer Project Year 1/STEVAL_SPIN3201_example/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_rcc.c:225:6:LL_RCC_GetSystemClocksFreq	16	static
+C:/Users/13410/Desktop/study/Summer Project Year 1/STEVAL_SPIN3201_example/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_rcc.c:248:10:LL_RCC_GetUSARTClockFreq	16	static
+C:/Users/13410/Desktop/study/Summer Project Year 1/STEVAL_SPIN3201_example/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_rcc.c:360:10:LL_RCC_GetI2CClockFreq	16	static
+C:/Users/13410/Desktop/study/Summer Project Year 1/STEVAL_SPIN3201_example/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_rcc.c:489:10:RCC_GetSystemClockFreq	16	static
+C:/Users/13410/Desktop/study/Summer Project Year 1/STEVAL_SPIN3201_example/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_rcc.c:527:10:RCC_GetHCLKClockFreq	0	static
+C:/Users/13410/Desktop/study/Summer Project Year 1/STEVAL_SPIN3201_example/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_rcc.c:538:10:RCC_GetPCLK1ClockFreq	0	static
+C:/Users/13410/Desktop/study/Summer Project Year 1/STEVAL_SPIN3201_example/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_rcc.c:547:10:RCC_PLL_GetFreqDomain_SYS	16	static

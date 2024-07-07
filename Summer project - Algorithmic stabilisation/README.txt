@@ -1,1 +1,0 @@
-Self balancing cube by remrc on Thingiverse: https://www.thingiverse.com/thing:5380306

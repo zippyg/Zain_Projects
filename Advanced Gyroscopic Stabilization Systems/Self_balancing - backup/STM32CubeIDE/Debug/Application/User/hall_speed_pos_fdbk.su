@@ -1,0 +1,6 @@
+C:/Users/13410/Desktop/study/Summer Project Year 1/Self_balancing/Src/hall_speed_pos_fdbk.c:92:13:HALL_Init	32	static
+C:/Users/13410/Desktop/study/Summer Project Year 1/Self_balancing/Src/hall_speed_pos_fdbk.c:201:13:HALL_Clear	16	static
+C:/Users/13410/Desktop/study/Summer Project Year 1/Self_balancing/Src/hall_speed_pos_fdbk.c:267:16:HALL_CalcElAngle	8	static
+C:/Users/13410/Desktop/study/Summer Project Year 1/Self_balancing/Src/hall_speed_pos_fdbk.c:315:13:HALL_CalcAvrgMecSpeedUnit	16	static
+C:/Users/13410/Desktop/study/Summer Project Year 1/Self_balancing/Src/hall_speed_pos_fdbk.c:405:14:HALL_TIMx_CC_IRQHandler	24	static
+C:/Users/13410/Desktop/study/Summer Project Year 1/Self_balancing/Src/hall_speed_pos_fdbk.c:746:14:HALL_TIMx_UP_IRQHandler	16	static
