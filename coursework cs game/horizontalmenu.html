@@ -1,0 +1,57 @@
+<div class="topBar">
+    <!-- Logo etc. -->
+    .topBar {
+        background: #263238;
+        color: rgba(255, 255, 255, 0.3);
+        font-size: 22px;
+        font-weight: bold;
+        text-transform: uppercase;
+        padding: 20px 0;
+        text-align: center;
+    }
+
+    .container {
+        margin: 0 auto;
+        padding: 0 10px;
+        max-width: 800px;
+    }
+
+    .navBar {
+        background: #455A64;
+    }
+
+    .nav {
+        margin: 0 -10px;
+        padding: 0 10px;
+        list-style: none;
+        display: flex;
+        overflow-x: scroll;
+        -webkit-overflow-scrolling: touch;
+    }
+
+    .nav > li > a {
+        padding: 14px 16px;
+        display: block;
+        color: rgba(255, 255, 255, 0.8);
+        text-decoration: none;
+        text-transform: uppercase;
+        font-size: 14px;
+    }
+
+    .nav > li > a.active {
+        border-bottom: 2px solid #E64A19;
+    }
+</div>
+
+<nav class="navBar">
+    <div class="container">
+        <ul class="nav">
+            <li><a href="#" class="active">Home</a></li>
+            <li><a href="#">Blog</a></li>
+            <li><a href="#">Products</a></li>
+            <li><a href="#">Services</a></li>
+            <li><a href="#">Help</a></li>
+            <li><a href="#">Contact</a></li>
+        </ul>
+    </div>
+</nav>

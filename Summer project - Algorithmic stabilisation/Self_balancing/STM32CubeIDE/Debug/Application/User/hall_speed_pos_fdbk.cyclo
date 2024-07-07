@@ -1,0 +1,6 @@
+hall_speed_pos_fdbk.c:92:13:HALL_Init	5
+hall_speed_pos_fdbk.c:201:13:HALL_Clear	9
+hall_speed_pos_fdbk.c:267:16:HALL_CalcElAngle	2
+hall_speed_pos_fdbk.c:315:13:HALL_CalcAvrgMecSpeedUnit	6
+hall_speed_pos_fdbk.c:405:14:HALL_TIMx_CC_IRQHandler	38
+hall_speed_pos_fdbk.c:746:14:HALL_TIMx_UP_IRQHandler	13

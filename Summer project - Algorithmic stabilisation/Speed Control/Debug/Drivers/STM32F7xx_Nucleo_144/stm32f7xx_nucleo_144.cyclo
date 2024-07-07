@@ -1,0 +1,9 @@
+stm32f7xx_nucleo_144.c:169:10:BSP_GetVersion	1
+stm32f7xx_nucleo_144.c:183:6:BSP_LED_Init	2
+stm32f7xx_nucleo_144.c:210:6:BSP_LED_DeInit	1
+stm32f7xx_nucleo_144.c:228:6:BSP_LED_On	1
+stm32f7xx_nucleo_144.c:242:6:BSP_LED_Off	1
+stm32f7xx_nucleo_144.c:256:6:BSP_LED_Toggle	1
+stm32f7xx_nucleo_144.c:272:6:BSP_PB_Init	3
+stm32f7xx_nucleo_144.c:310:6:BSP_PB_DeInit	1
+stm32f7xx_nucleo_144.c:325:10:BSP_PB_GetState	1

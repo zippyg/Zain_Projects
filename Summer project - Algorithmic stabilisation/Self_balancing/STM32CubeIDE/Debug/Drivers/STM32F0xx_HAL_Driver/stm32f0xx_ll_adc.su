@@ -1,0 +1,6 @@
+C:/Users/13410/Desktop/study/Summer Project Year 1/Self_balancing/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_adc.c:169:13:LL_ADC_CommonDeInit	0	static
+C:/Users/13410/Desktop/study/Summer Project Year 1/Self_balancing/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_adc.c:199:13:LL_ADC_DeInit	16	static
+C:/Users/13410/Desktop/study/Summer Project Year 1/Self_balancing/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_adc.c:371:13:LL_ADC_Init	8	static
+C:/Users/13410/Desktop/study/Summer Project Year 1/Self_balancing/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_adc.c:423:6:LL_ADC_StructInit	0	static
+C:/Users/13410/Desktop/study/Summer Project Year 1/Self_balancing/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_adc.c:466:13:LL_ADC_REG_Init	8	static
+C:/Users/13410/Desktop/study/Summer Project Year 1/Self_balancing/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_adc.c:528:6:LL_ADC_REG_StructInit	0	static

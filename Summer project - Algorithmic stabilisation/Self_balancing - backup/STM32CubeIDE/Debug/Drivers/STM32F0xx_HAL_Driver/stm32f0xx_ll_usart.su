@@ -1,0 +1,5 @@
+C:/Users/13410/Desktop/study/Summer Project Year 1/Self_balancing/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_usart.c:137:13:LL_USART_DeInit	0	static
+C:/Users/13410/Desktop/study/Summer Project Year 1/Self_balancing/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_usart.c:244:13:LL_USART_Init	16	static
+C:/Users/13410/Desktop/study/Summer Project Year 1/Self_balancing/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_usart.c:398:6:LL_USART_StructInit	0	static
+C:/Users/13410/Desktop/study/Summer Project Year 1/Self_balancing/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_usart.c:424:13:LL_USART_ClockInit	8	static
+C:/Users/13410/Desktop/study/Summer Project Year 1/Self_balancing/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_usart.c:482:6:LL_USART_ClockStructInit	0	static
