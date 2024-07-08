@@ -1,4 +1,4 @@
-# Zain Mughal's Project Portfolio
+# Zain Mughal's Projects
 
 Welcome to my project portfolio repository! Here, you'll find a collection of my key projects that demonstrate my skills and expertise in physics, data analysis, and software development. Each project reflects my passion for tackling complex problems and creating innovative solutions.
 
