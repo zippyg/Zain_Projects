@@ -26,7 +26,7 @@ A simulation to study gas behavior through classical thermodynamics and kinetic 
 A project conducted during my first year of study, focused on determining the Hubble constant through observational data and statistical analysis.
 
 ### Yr1 Relativity
-An exploration of the principles of relativity, including simulations and theoretical calculations, conducted during my first year of study.
+An exploration of the principles of relativity, including simulations and theoretical calculations.
 
 ## Live Preview
 
