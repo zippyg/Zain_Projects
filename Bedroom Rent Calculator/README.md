@@ -26,3 +26,7 @@ A web app designed to accurately calculate and distribute rent among multiple be
 - Bootstrap
 - HTML5
 - CSS3
+
+## License
+
+This project is licensed under the Creative Commons Attribution 4.0 International License - see the [LICENSE.md](/LICENSE.md) file for details.
