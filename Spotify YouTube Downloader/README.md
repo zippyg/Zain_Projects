@@ -22,3 +22,7 @@ A tool to download tracks from Spotify playlists via YouTube with a dark-mode in
 - Google API Client
 - YT-DLP
 - Mutagen
+
+## License
+
+This project is licensed under the Creative Commons Attribution 4.0 International License - see the [LICENSE.md](/LICENSE.md) file for details.
