@@ -32,3 +32,8 @@ Developed mechanical stabilizers for cameras and precision instruments using gyr
 - Arduino
 - MPU-6050
 - Pygame
+
+## License
+
+This project is licensed under the Creative Commons Attribution 4.0 International License - see the [LICENSE.md](LICENSE.md) file for details.
+
