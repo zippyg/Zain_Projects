@@ -32,6 +32,10 @@ An exploration of the principles of relativity, including simulations and theore
 
 Explore my live portfolio [here](https://zippyg.github.io/React_porfolio_zain.github.io/).
 
+## License
+
+This project is licensed under the Creative Commons Attribution 4.0 International License - see the [LICENSE.md](LICENSE.md) file for details.
+
 ## Contact
 
 Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/feed/) or [email](mailto:zainmughal77@outlook.com) for any inquiries or collaboration opportunities.
